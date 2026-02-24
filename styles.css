@@ -1,7 +1,10 @@
 /*  your css code here. If applicable */
-.input:nth-child(odd) {
+/* .input:nth-child(odd) {
   color: rgb(255, 0, 0);
-}
+} */
 /* label:nth-of-type(even) {
   color: red;
 } */
+input[type="radio"]:nth-of-type(even) {
+  accent-color: red;
+}
