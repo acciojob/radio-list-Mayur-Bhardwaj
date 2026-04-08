@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
-.input {
-  accent-color: red;
-}
+/* .input { */
+  /* accent-color: red; */
+/* } */
 .input + label {
   color: red;
 }
