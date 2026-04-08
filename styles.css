@@ -2,3 +2,6 @@
 .input {
   accent-color: red;
 }
+.input + label {
+  color: red;
+}
