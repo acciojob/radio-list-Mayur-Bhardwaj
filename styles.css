@@ -1,6 +1,4 @@
 /*  your css code here. If applicable */
-label[for="option2"],
-label[for="option4"],
-label[for="option6"] {
-  color: rgb(255, 0, 0);
+.input {
+  accent-color: red;
 }
